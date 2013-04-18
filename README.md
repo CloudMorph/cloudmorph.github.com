@@ -1,4 +1,4 @@
-CloidMorph
+CloudMorph
 =====================
 
 Cloud agnostic PaaS fabric
